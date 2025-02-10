@@ -1,2 +1,3 @@
-# wpu-resolusi
-saya mau menguasai dunia
+# ipel-resolusi
+menyimpan rencana untuk kedepannya
+
